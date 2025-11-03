@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="art_image_name_1">Ular piton bola yang sedang melilit di dahan pohon.</string>
+    <string name="art_image_author_1">Ball Python</string>
+    <string name="art_image_year_1">2020</string>
+
+    <string name="art_image_name_2">Kadal berjanggut yang sedang berjemur di batu.</string>
+    <string name="art_image_author_2">Bearded Dragon</string>
+    <string name="art_image_year_2">2020</string>
+
+    <string name="art_image_name_3">Iguana Fiji berwarna hijau kebiruan di antara dedaunan.</string>
+    <string name="art_image_author_3">Fiji Banded Iguana</string>
+    <string name="art_image_year_3">2021</string>
+
+    <string name="art_image_name_4">Kadal berjumbai membuka jumbai lehernya untuk bertahan.</string>
+    <string name="art_image_author_4">Frilled Lizard</string>
+    <string name="art_image_year_4">2021</string>
+
+    <string name="art_image_name_5">Tokek leopard dengan corak totol hitam dan kuning.</string>
+    <string name="art_image_author_5">Leopard Gecko</string>
+    <string name="art_image_year_5">2022</string>
+
+    <string name="art_image_name_6">Iguana hijau beristirahat di dahan pohon.</string>
+    <string name="art_image_author_6">Green Iguana</string>
+    <string name="art_image_year_6">2022</string>
+
+    <string name="art_image_name_7">Dua komodo sedang berhadapan di padang savana.</string>
+    <string name="art_image_author_7">Komodo Dragon</string>
+    <string name="art_image_year_7">2023</string>
+
+    <string name="art_image_name_8">Iguana merah sedang membuka mulut di atas batang kayu.</string>
+    <string name="art_image_author_8">Red Iguana</string>
+    <string name="art_image_year_8">2023</string>
+
+    <string name="art_image_name_9">Kura-kura sulcata berjalan di rerumputan hijau.</string>
+    <string name="art_image_author_9">African Spurred Tortoise (Sulcata)</string>
+    <string name="art_image_year_9">2024</string>
+
+    <string name="art_image_name_10">Kura-kura raksasa Galápagos di dekat kolam air.</string>
+    <string name="art_image_author_10">Galápagos Giant Tortoise</string>
+    <string name="art_image_year_10">2024</string>
+
+</resources>
